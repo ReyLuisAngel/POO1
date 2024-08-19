@@ -20,4 +20,13 @@
 
 # Actividad 3
 
-* Act.Ex
+* p10_TrianguloHipotenusa
+* p11_CalcularAngulo
+* p12_FarenheitACelcius
+* p13_CalcularVolCilindro
+* p14_CalcularTiempo
+* p15_PesoADolar
+
+# Actividad 3
+
+* p
