@@ -27,7 +27,7 @@
 * p14_CalcularTiempo
 * p15_PesoADolar
 
-# Actividad 3
+# Actividad 4
 
 * p16_TrabajandoEnteros
 * p17_TrabajandoFlotantes
@@ -35,7 +35,7 @@
 * p19_TrabajandoCaracteres
 * p20_ConversionTipos
 
-# Actividad 4
+# Actividad 5
 
 * p21_VerificaNumero
 * p22_VerificaSuma
