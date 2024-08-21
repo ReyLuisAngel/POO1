@@ -7,7 +7,7 @@ public class p23_ConvertirTemperatura {
         float temp, res;
         Scanner obj = new Scanner(System.in);
         System.out.print("\033[H\033[2J"); System.out.flush();
-        System.out.println("Convertir de grados Celcius a Farenheit y viceversa\n");
+        System.out.println("Convertir de grados Celcius a Farenheit y viceversa \n");
         System.out.println("[F]arenheit a Centigrados");
         System.out.println("[C]entigrados a Farenheit");
         System.out.print("Elije una opcion. "); op = obj.next().charAt(0);

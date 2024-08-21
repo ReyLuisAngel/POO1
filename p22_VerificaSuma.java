@@ -8,7 +8,7 @@ public class p22_VerificaSuma {
         System.out.println("Verificar si la suma de dos numeros es igual al tercero\n");
         System.out.print("Dame el primer numero: "); n1 = obj.nextInt();
         System.out.print("Dame el seguno numero: "); n2 = obj.nextInt();
-        System.out.print("Dame el tercer numero: "); n3 = obj.nextInt();
+        System.out.print("Dame el tercer numero:  "); n3 = obj.nextInt();
         if( n1+n2 == n3 )
         System.out.println("\nSon iguales");
         else

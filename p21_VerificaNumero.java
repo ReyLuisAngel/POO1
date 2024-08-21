@@ -16,7 +16,7 @@ public class p21_VerificaNumero {
 
         if( n==0 )
 
-        System.out.println("El número es CERO");
+        System.out.println("El número es cero");
         System.out.println("\nGracias por utilizar este programa\n");
     }
 }
