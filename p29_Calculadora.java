@@ -12,7 +12,7 @@ public class p29_Calculadora {
         n1 = obj.nextDouble();
         System.out.print("Dame número 2: ");
         n2 = obj.nextDouble();
-        System.out.print("Escoge una operación ( + - * / ^ ): ");
+        System.out.print("Escoge una operación ( +  - * / ^ ): ");
         op = obj.next().charAt(0);
         switch (op) {
             case '+':

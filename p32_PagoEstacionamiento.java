@@ -9,7 +9,7 @@ public class p32_PagoEstacionamiento {
         System.out.print("\033[H\033[2J");
         System.out.flush();
         System.out.println("Administra el pago por estacionamiento de acuerdo a la Zona\n");
-        System.out.println("1 - Estacionamiento Tacuba 3%");
+        System.out.println("1 - Estacionamiento Tacuba 3% ");
         System.out.println("2 - Estacionamiento Portales 5%");
         System.out.println("3 - Estacionamiento Conquistadores 10%");
         System.out.println("4 - Estacionamiento Pajaros Caidos 15%");

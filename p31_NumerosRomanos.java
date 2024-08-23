@@ -7,7 +7,7 @@ public class p31_NumerosRomanos {
         System.out.print("Dame un número: ");
         int dia = new Scanner(System.in).nextInt();
         switch (dia) {
-            case 1 : System.out.println("I");break;
+            case 1 : System.out.println("I ");break;
             case 2 : System.out.println("II");break;
             case 3 : System.out.println("III");break;
             case 4 : System.out.println("IV");break;

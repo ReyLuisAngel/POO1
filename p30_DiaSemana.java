@@ -8,7 +8,7 @@ public class p30_DiaSemana {
         System.out.print("Dame el día con número: ");
         int dia = new Scanner(System.in).nextInt();
         switch (dia) {
-            case 1 : System.out.println("Lunes");break;
+            case 1 : System.out.println(" Lunes");break;
             case 2 : System.out.println("Martes");break;
             case 3 : System.out.println("Miércoles");break;
             case 4 : System.out.println("Jueves");break;
