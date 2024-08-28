@@ -64,3 +64,14 @@
 * p36_CompraPizza
 * p37_CalculoNotas
 * p38_AceptarEstudianteV2
+
+# Actividad 8
+
+* p39_Numeros1a100
+* p39b_Numeros1a100
+* p39c_Numeros1a100
+* p40_Numeros100a1
+* p41_ProcesaCalificaciones
+* p42_TablaMultiplicar
+* p42b_TablaMultiplicar
+* p43_ConteoNumeros
