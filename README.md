@@ -77,3 +77,8 @@
 * p43_ConteoNumeros
 
 # Actividad 9
+
+* p44_ParesAscendente
+* p45_ImparesDescendente
+* p46_TablaConversion
+* p47_ConjeturaCollaatz
