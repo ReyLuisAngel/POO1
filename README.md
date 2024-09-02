@@ -18,7 +18,7 @@
 * p08_FuncionesTrigoometricas
 * p09_DividirEnCifras
 
-# Actividad 3
+# Practica 1 20/082024
 
 * p10_TrianguloHipotenusa
 * p11_CalcularAngulo
@@ -27,7 +27,7 @@
 * p14_CalcularTiempo
 * p15_PesoADolar
 
-# Actividad 4
+# Actividad 3 21/08/2024
 
 * p16_TrabajandoEnteros
 * p17_TrabajandoFlotantes
@@ -35,28 +35,28 @@
 * p19_TrabajandoCaracteres
 * p20_ConversionTipos
 
-# Actividad 5
+# Actividad 4 22/08/2024
 
 * p21_VerificaNumero
 * p22_VerificaSuma
 * p23_ConvertirTemperaturas
 * p24_PagaTrabajadorv2
 
-# Actividad 6
+# Actividad 5 23/08/2024
 
 * p25_EstacionesAño
 * p26_TipoAngulo
 * p27_AceptarEstudiante
 * p28_LeyDeNewton
 
-# Actividad 6
+# Actividad 6 27/08/2024
 
 * p29_Calculadora
 * p30_DiaSemana
 * p31_NumerosRomanos
 * p32_PagoEstacionamiento
 
-# Actividad 7
+# Practica 2 28/08/2024
 
 * p33_NumerosConsecutivos
 * p34_NumeroMayor
@@ -65,7 +65,7 @@
 * p37_CalculoNotas
 * p38_AceptarEstudianteV2
 
-# Actividad 8
+# Actividad 7 29/08/2024
 
 * p39_Numeros1a100
 * p39b_Numeros1a100
@@ -76,9 +76,16 @@
 * p42b_TablaMultiplicar
 * p43_ConteoNumeros
 
-# Actividad 9
+# Actividad 8 30/08/2024
 
 * p44_ParesAscendente
 * p45_ImparesDescendente
 * p46_TablaConversion
 * p47_ConjeturaCollaatz
+
+# Practica 3 02/09/2024
+
+* p48_ImparesAscendente  
+* p49_ParesDescendente  
+* p50_ConversionTemperaturas
+* p51_SerieFibonaci
