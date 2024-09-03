@@ -97,3 +97,10 @@
 * p54_ArribaAbajo
 * p55_SumaParesImpares
 * p56_SumaPromedio
+
+# Actividad 9 04/09/2024
+
+* p57_TablasMultiplicar
+* p58_Piramide
+* p59_FactorialNumeros
+* p60_SumaTerminos
