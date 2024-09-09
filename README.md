@@ -111,3 +111,7 @@
 * p62_SecuenciaNumeros2
 * p63_SumaTerminos1
 * p64_SumaTerminos2
+
+# Practica PrimerParcial 09/09/2024
+
+* p_PrimerParcial
