@@ -114,4 +114,8 @@
 
 # Practica PrimerParcial 09/09/2024
 
-* p_PrimerParcial
+* p65_SistemaPapeleria
+
+# PrimerParcial 10/09/2024
+
+* pe01_PrimerExamenParcial

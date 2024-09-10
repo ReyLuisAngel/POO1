@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class p_PrimerParcial {
+public class p65_SistemaPapeleria {
     public static void main(String[] args) {
         char resp, tc;
         int cv, cc, co, cd, ct, ccs, cos, cds;
