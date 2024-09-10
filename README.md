@@ -119,3 +119,11 @@
 # PrimerParcial 10/09/2024
 
 * pe01_PrimerExamenParcial
+
+# Actividad 11 11/09/2024
+
+* p66_PromedioNumeros
+* p67_ConversionTemperaturas
+* p68_SumaRango
+* p69_TablaMultiplicar
+* p70_CalificacionLetra
