@@ -135,3 +135,11 @@
 * p73_SumaParesImpares
 * p74_Factorial
 * p75_CuadroCaracter 
+
+# Practica 6 18/09/2024
+
+* p76_NumeroMenor
+* p77_DiaSemana  
+* p78_MedidasLongitud  
+* p79_SumaMultiplos
+* p80_Angulo
