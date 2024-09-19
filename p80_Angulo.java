@@ -2,6 +2,11 @@
 import java.util.Scanner;
 public class p80_Angulo {
 
+    /**
+     * calcula el angulo segun el numero ingresado
+     * @param ang numero de angulo
+     * @return regresa el tipo de angulo
+     */
         public static String Ang(int ang) {
             String da="n";
             if (ang<=90){

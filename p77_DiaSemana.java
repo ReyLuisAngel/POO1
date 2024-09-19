@@ -1,7 +1,11 @@
 // Dado un numero entre 1 y 7 imprime el dia de la semana
 import java.util.Scanner;
 public class p77_DiaSemana {
-
+    /**
+     * Imprime el dia segun el numero
+     * @param dia (int) numero del dia que debe imprimirse entre 1 y 7
+     * @return esta funcion regresa el dia indicado
+     */
         public static String Dia(int dia) {
             String da="n";
             switch (dia) {

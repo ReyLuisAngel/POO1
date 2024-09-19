@@ -1,11 +1,21 @@
 // Calcula conversiones
 import java.util.Scanner;
 public class p78_MedidasLongitud {
+    /**
+     * Conversion pulgada a centimetro
+     * @param a el numero a convertir a cm
+     * @return esta funcion regresa la conversion
+     */
     public static double Cm(float a) {
         double tot;
         tot = a*2.54;
         return tot;
     }
+    /**
+     * Conversion metro a pies
+     * @param a el numero a convertir a pies
+     * @return esta funcion regresa la conversion
+     */
     public static double Ps(float a) {
         double tot;
         tot = a*3.281;

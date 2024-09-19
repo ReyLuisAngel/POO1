@@ -1,6 +1,13 @@
 // Calcula suma de mult de 3 a 4 entre dos numeros
 import java.util.Scanner;
 public class p79_SumaMultiplos {
+    /**
+     * suma de multiplos de 3
+     * @param n1 inicio de la serie
+     * @param n2 fin de la serie
+     * @param n3 multiplo
+     * @return regresa la sumatoria de los multiplos
+     */
     public static int Sm3(int n1, int n2, int n3) {
         int tot=0;
         for(int i=n1;i<=n2;i++){
@@ -10,6 +17,13 @@ public class p79_SumaMultiplos {
         }
         return tot;
     }
+    /**
+     * suma de multiplos de 4
+     * @param n1 inicio de la serie
+     * @param n2 fin de la serie
+     * @param n3 multiplo
+     * @return regresa la sumatoria de los multiplos
+     */
     public static int Sm4(int n1, int n2, int n3) {
         int tot=0;
         for(int i=n1;i<=n2;i++){
