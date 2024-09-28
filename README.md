@@ -172,3 +172,9 @@
 * p95_Empleado02
 * p96_Empleado03
 * p97_Empleado04
+
+# Practica 7 27/09/2024
+
+* p98_Circulo
+* p99_Rectangulo
+* p100_Articulo 
