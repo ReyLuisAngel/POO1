@@ -184,3 +184,8 @@
 * p101_TrabajoPersona
 * p102_AutorLibro
 * p103_ClienteFactura
+
+# Practica 8 02/10/2024
+
+* p104_PuntoCirculo
+* p105_PuntoTriangulo
