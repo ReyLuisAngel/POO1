@@ -189,3 +189,8 @@
 
 * p104_PuntoCirculo
 * p105_PuntoTriangulo
+
+
+# SegundoParcial 16/10/2024
+
+* p113_SegundoExamenParcial
