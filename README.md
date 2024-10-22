@@ -194,3 +194,8 @@
 # SegundoParcial 16/10/2024
 
 * p113_SegundoExamenParcial
+
+# Actividad 21 21/10/2024
+
+* p118_Calculadora
+* p119_Organismo
