@@ -91,10 +91,6 @@ public class Equipo {
     }
 
     public void reporte() {
-        getTotalM();
-        getTotalH();
-        getTotal();
-        getTotalBono();
 
         for (Jugador jugador : jugadores) {
             System.out.println(jugador.toString());
