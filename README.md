@@ -200,7 +200,7 @@
 * p118_Calculadora
 * p119_Organismo
 
-# Actividad 23 28/10/2024
+# Actividad 22 28/10/2024
 
 * p121_Excepcion1
 * p122_Excepcion2
@@ -209,6 +209,13 @@
 * p125_Excepcion5
 * p126_Excepcion6
 * p127_MiExcepcion
+
+# Practica 13 29/10/2024
+
+* p128_ExcepcionRaiz
+* p129_ExcepcionDulces
+* p130_ExcepcionEdades
+* p131_ExcepcionTemperatura
 
 # Actividad 23 30/10/2024
 
