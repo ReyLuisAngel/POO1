@@ -224,3 +224,7 @@
 * p134_Archivos3
 * p135_Archivos4
 * p136_Archivos5
+
+# TercerParcial 14/11/2024
+
+* p147_TercerParcial
